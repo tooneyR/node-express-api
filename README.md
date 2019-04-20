@@ -10,6 +10,7 @@ Features
 Requirements
 •	node & npm
 •	git
+• Running instance of MongoDB (default Port)
 
 Installation
 •	git clone https://github.com/tooneyR/node-express-api.git
