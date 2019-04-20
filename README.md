@@ -14,6 +14,7 @@ Requirements
 
 Installation
 •	git clone https://github.com/tooneyR/node-express-api.git
+• cd node-express-api
 •	cd Node-express
 •	npm install
 •	npm start
