@@ -27,9 +27,9 @@ visit http://localhost:3000
 Postman
 •	Install Postman to interact with REST API
 •	Create a message with:
-o	URL: http://localhost:3000/blog
-o	Method: POST
-o	Body Content: { 
+•	URL: http://localhost:3000/blog
+•	Method: POST
+•	Body Content: { 
  	"title": "This is a title" ,
  	"date": "2019-04-20" ,
  	"payload": "This is a text"
