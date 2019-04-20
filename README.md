@@ -14,11 +14,11 @@ This project is about to create and query blog entries. It is  an easy way to ge
 
 ## Installation
 ```
-*	git clone https://github.com/tooneyR/node-express-api.git
-* cd node-express-api
-*	cd Node-express
-*	npm install
-*	npm start
+	git clone https://github.com/tooneyR/node-express-api.git
+ cd node-express-api
+	cd Node-express
+	npm install
+	npm start
 ```
 
 ## GET Routes
